@@ -1,10 +1,8 @@
-Hi 👋 My name is Ariston Catipay.
-=================================
+![Colorful 3D Illustrated Remote Learning Video Presentation](https://user-images.githubusercontent.com/89591363/179343022-3ce6d076-bd7b-4975-a706-fa593b401535.png)
 
-I am a Web Developer
---------------------
 
 In the three years that I've been coding, I've primarily worked on projects for school. Despite my enthusiasm for attractive websites—I genuinely like seeing and using them—I didn't feel the drive or ambition to learn HTML and CSS. However, after I discovered how to link websites to databases and control requests and inquiries to improve the usefulness of data sets, I fell in love with back-end development.
+
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [aristoncatipay123@gmail.com](mailto:aristoncatipay123@gmail.com)

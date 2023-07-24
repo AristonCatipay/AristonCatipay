@@ -33,5 +33,3 @@ I've been coding for four years, and most of the time I've been working on schoo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AristonCatipay"><img src="https://github-readme-stats.vercel.app/api?username=AristonCatipay&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=a855f7&icon_color=ec4899&bg_color=312e81&hide_border=true&show_icons=true" alt="AristonCatipay's GitHub stats" /></a>
-
-<a href="http://www.github.com/AristonCatipay"><img src="https://activity-graph.herokuapp.com/graph?username=AristonCatipay&bg_color=312e81&color=a855f7&line=ec4899&point=a855f7&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
